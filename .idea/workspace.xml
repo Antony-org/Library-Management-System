@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72159f5c-c2f4-4a23-a329-cd83c82bc5e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2d1CgrlJVKYLudbyrVd7YpWUgPo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.HogwartsArtifactsOnlineApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LibraryManagementSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.edu.com.librarymanagementsystem.LibraryManagementSystem.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArtifactControllerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArtifactControllerTest.testCreateArtifactSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArtifactControllerTest.testDeleteArtifactNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArtifactControllerTest.testDeleteArtifactSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArtifactControllerTest.testFindArtifactByIdNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArtifactControllerTest.testFindArtifactByIdSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArtifactControllerTest.testUpdateArtifactNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArtifactControllerTest.testUpdateArtifactSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArtifactControllerTest.testfindAllArtifactsSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArtifactServiceTest.testCreateArtifactSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArtifactServiceTest.testDeleteNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArtifactServiceTest.testDeleteSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArtifactServiceTest.testFindAllSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArtifactServiceTest.testFindById.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArtifactServiceTest.testFindByIdNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArtifactServiceTest.testFindByIdSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArtifactServiceTest.testUpdateNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArtifactServiceTest.testUpdateSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BookControllerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BookControllerTest.testCreateBookSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BookControllerTest.testFindBookByIdSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BookControllerTest.testUpdateBookSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BookServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BookServiceTest.testCreatebookSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BorrowingServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BorrowingServiceTest.testBorrowBook.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BorrowingServiceTest.testBorrowBookWithInvalidBook.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BorrowingServiceTest.testBorrowSave.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BorrowingServiceTest.testGetBorrowingRecordById.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PatronControllerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PatronControllerTest.testFindPatronByIdNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PatronServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PatronServiceTest.testFindByIdSuccess.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.PatronServiceTest.testSavePatronSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserControllerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.testFindByIdNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WizardControllerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WizardControllerTest.findAllWizardsSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WizardControllerTest.findWizardById.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WizardControllerTest.findWizardByIdNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WizardControllerTest.findWizardByIdSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WizardControllerTest.testAddWizardSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WizardControllerTest.testAssignArtifactNotFoundArtifactId.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WizardControllerTest.testAssignArtifactNotFoundWizardId.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WizardControllerTest.testAssignArtifactSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WizardControllerTest.testDeleteWizardByIdNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WizardControllerTest.testUpdateWizardNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WizardControllerTest.testUpdateWizardSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WizardServiceTest.testAssignArtifactErrorArtifactNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WizardServiceTest.testAssignArtifactErrorWizardNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WizardServiceTest.testAssignArtifactSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WizardServiceTest.testDeleteNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WizardServiceTest.testDeleteSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WizardServiceTest.testFindAllSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WizardServiceTest.testFindByIdNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WizardServiceTest.testFindByIdSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WizardServiceTest.testFindWizardByIdSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WizardServiceTest.testSaveWizardSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WizardServiceTest.testUpdateNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WizardServiceTest.testUpdateSuccess.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.books in Library-Management-System.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.java in Library-Management-System.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.java in hogwarts-artifacts-online.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.libraryUsers in Library-Management-System.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Study/java_Spring/projects/Library Management System&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Study\java_Spring\projects\Library Management System" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu.com.hogwartsartifactsonline.wizard" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.com.librarymanagementsystem.borrowingRecords" />
+      <recent name="edu.com.hogwartsartifactsonline.hogwartsUsers" />
+      <recent name="edu.com.hogwartsartifactsonline.wizard" />
+      <recent name="edu.com.hogwartsartifactsonline.artifact" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LibraryManagementSystem">
+    <configuration name="LibraryManagementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.com.librarymanagementsystem.LibraryManagementSystem" />
+      <module name="Library-Management-System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.com.librarymanagementsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BorrowingServiceTest.testBorrowSave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Library-Management-System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.com.librarymanagementsystem.borrowingRecords.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.com.librarymanagementsystem.borrowingRecords" />
+      <option name="MAIN_CLASS_NAME" value="edu.com.librarymanagementsystem.borrowingRecords.BorrowingServiceTest" />
+      <option name="METHOD_NAME" value="testBorrowSave" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatronControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Library-Management-System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.com.librarymanagementsystem.patron.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.com.librarymanagementsystem.patron" />
+      <option name="MAIN_CLASS_NAME" value="edu.com.librarymanagementsystem.patron.PatronControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatronControllerTest.testFindPatronByIdNotFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Library-Management-System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.com.librarymanagementsystem.patron.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.com.librarymanagementsystem.patron" />
+      <option name="MAIN_CLASS_NAME" value="edu.com.librarymanagementsystem.patron.PatronControllerTest" />
+      <option name="METHOD_NAME" value="testFindPatronByIdNotFound" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="libraryUsers in Library-Management-System" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Library-Management-System" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java/edu/com/librarymanagementsystem/libraryUsers" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LibraryManagementSystem" />
+        <item itemvalue="JUnit.libraryUsers in Library-Management-System" />
+        <item itemvalue="JUnit.PatronControllerTest" />
+        <item itemvalue="JUnit.PatronControllerTest.testFindPatronByIdNotFound" />
+        <item itemvalue="JUnit.BorrowingServiceTest.testBorrowSave" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72159f5c-c2f4-4a23-a329-cd83c82bc5e8" name="Changes" comment="" />
+      <created>1709166316354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709166316354</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

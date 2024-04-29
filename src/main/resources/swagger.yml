@@ -1,0 +1,94 @@
+openapi: 3.0.0
+info:
+  title: My API
+  version: 1.0.0
+servers:
+  - url: http://localhost:8080
+paths:
+  /api/v1/users/{userId}:
+    get:
+      summary: Get user by ID
+      parameters:
+        - name: userId
+          in: path
+          required: true
+          schema:
+            type: integer
+            format: int32
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/UserDto'
+        '400':
+          description: Bad Request
+        '401':
+          description: Unauthorized
+        '404':
+          description: Not Found
+
+components:
+  schemas:
+    Result:
+      type: object
+      properties:
+        flag:
+          type: boolean
+        code:
+          type: integer
+        message:
+          type: string
+        data:
+          type: object
+    UserDto:
+      type: object
+      properties:
+        id:
+          type: integer
+        username:
+          type: string
+        enabled:
+          type: boolean
+        roles:
+          type: string
+    PatronDTO:
+      type: object
+      properties:
+        id:
+          type: integer
+        name:
+          type: string
+        email:
+          type: string
+        phoneNumber:
+          type: string
+        NumOfBooks:
+          type: integer
+    BookDTO:
+      type: object
+      properties:
+        id:
+          type: integer
+        title:
+          type: string
+        author:
+          type: string
+        publicationYear:
+          type: string
+        isbn:
+          type: string
+    LibraryUser:
+      type: object
+      properties:
+        id:
+          type: integer
+        username:
+          type: string
+        password:
+          type: string
+        enabled:
+          type: boolean
+        roles:
+          type: string
